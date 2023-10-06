@@ -640,7 +640,7 @@
                 <Setter Property="Source" Value="pack://application:,,,/GustavNoesisGUI;component/Assets/newsamurai/ClassIcons/Icon_newsamurai.png"/>
 			</DataTrigger>
 			<DataTrigger Binding="{Binding SubclassIDString}" Value="ShadowMagic">
-                <Setter Property="Source" Value="pack://application:,,,/GustavNoesisGUI;component/Assets/BG3ShadowSorcerer/ClassIcons/Sorcerer_ShadowSorcery.png"/>
+                <Setter Property="Source" Value="pack://application:,,,/GustavNoesisGUI;component/Assets/ClassIcons/Sorcerer_ShadowSorcery.png"/>
             </DataTrigger>	
             <DataTrigger Binding="{Binding SubclassIDString}" Value="WarMagic">
                 <Setter Property="Source" Value="pack://application:,,,/GustavNoesisGUI;component/Assets/WarMagic/ClassIcons/ftt_wizardtraditions_warmagic.png"/>
@@ -785,7 +785,7 @@
                 <Setter Property="Source" Value="pack://application:,,,/GustavNoesisGUI;component/Assets/newsamurai/ClassIcons/hotbar/Icon_newsamurai.png"/>
 			</DataTrigger>
 			<DataTrigger Binding="{Binding SubclassIDString}" Value="ShadowMagic">
-                <Setter Property="Source" Value="pack://application:,,,/GustavNoesisGUI;component/Assets/BG3ShadowSorcerer/ClassIcons/hotbar/Sorcerer_ShadowSorcery_Simplified.png"/>
+                <Setter Property="Source" Value="pack://application:,,,/GustavNoesisGUI;component/Assets/ClassIcons/hotbar/Sorcerer_ShadowSorcery_Simplified.png"/>
             </DataTrigger>
             <DataTrigger Binding="{Binding SubclassIDString}" Value="WarMagic">
                 <Setter Property="Source" Value="pack://application:,,,/GustavNoesisGUI;component/Assets/WarMagic/ClassIcons/hotbar/ftt_wizardtraditions_warmagic.png"/>
